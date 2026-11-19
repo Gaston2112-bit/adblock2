@@ -1,0 +1,2 @@
+# adblock2
+Bloquea 
